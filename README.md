@@ -6,8 +6,8 @@ Edit By Solayman M.Salah
 
 Some screenshots of what you can build with the article:
 
-![The Kanban board view](/screenshots/kanban-board.png?raw=true "The board view")
-![The Kanban backlog view](/screenshots/kanban-backlog.png?raw=true "The backlog view")
+![The Kanban board view](https://d.top4top.io/p_162708f3v1.png?raw=true "The board view")
+![The Kanban backlog view](https://e.top4top.io/p_16271239g2.png?raw=true "The backlog view")
 
 ## Build Setup
 
